@@ -1,0 +1,54 @@
+{
+    "favourite-pokemons": [
+      {
+        "id": 7,
+        "name": "squirtle",
+        "rank": "2"
+      },
+      {
+        "id": 132,
+        "name": "ditto",
+        "rank": "8"
+      },
+      {
+        "id": 25,
+        "name": "pikachu",
+        "rank": 6
+      },
+      {
+        "id": 258,
+        "name": "mudkip",
+        "rank": 7
+      },
+      {
+        "id": 1,
+        "name": "bulbasaur",
+        "rank": "3"
+      },
+      {
+        "id": 363,
+        "name": "spheal",
+        "rank": 0
+      },
+      {
+        "id": 6,
+        "name": "charizard",
+        "rank": 0
+      },
+      {
+        "id": 147,
+        "name": "dratini",
+        "rank": "5"
+      },
+      {
+        "id": 4,
+        "name": "charmander",
+        "rank": "4"
+      },
+      {
+        "id": 634,
+        "name": "zweilous",
+        "rank": "1"
+      }
+    ]
+  }
